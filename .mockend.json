@@ -1,10 +1,6 @@
-[
-  {
-    "title": "test1",
-    "body": "testing1"
-  },
-  {
-    "title": "test2",
-    "body": "testing2"
+{
+  "posts": {
+    { "id": "1", "title": "post 1", "body": "posting 1" },
+    { "id": "2", "title": "post 2", "body": "posting 2" },
   }
-  ]
+}
