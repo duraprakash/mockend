@@ -1,6 +1,10 @@
-{
-  "User": {
-    "title": { "string": {} },
-    "body": { "string": {} }
+[
+  {
+    "title": "test1",
+    "body": "testing1"
+  },
+  {
+    "title": "test2",
+    "body": "testing2"
   }
-}
+  ]
